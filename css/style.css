@@ -1,0 +1,7 @@
+.jumbotron {
+    height: 400px;
+    background-image: url(../images/beach.jpeg);
+    background-size: cover;
+    margin-bottom: 20px;
+    color: white;
+}
