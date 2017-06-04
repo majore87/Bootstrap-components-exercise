@@ -1,5 +1,13 @@
 /*-------------------*/
-/*jumbotron*/
+/* General */
+/*-------------------*/
+
+.margin {
+    margin: 100px auto;
+}
+
+/*-------------------*/
+/* Jumbotron */
 /*-------------------*/
 
 .jumbotron {
@@ -11,15 +19,16 @@
 }
 
 /*-------------------*/
-/*Footer*/
+/* Footer */
 /*-------------------*/
 
 footer {
-    height: 50px;
+    height: 100px;
     color: #9D9D9D;
     text-align: center;
     background-color: #222222;
     padding-top: 15px;
+    line-height: 50%;
 }
 footer a {
     color: #9D9D9D;
