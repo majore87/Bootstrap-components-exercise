@@ -19,21 +19,29 @@
 }
 
 /*-------------------*/
+/* Pagination */
+/*-------------------*/
+
+.pagination {
+    display: flex;
+    justify-content: center;
+}
+
+/*-------------------*/
 /* Footer */
 /*-------------------*/
 
 footer {
-    height: 100px;
+    height: 50px;
     color: #9D9D9D;
     text-align: center;
     background-color: #222222;
     padding-top: 15px;
-    line-height: 50%;
+    line-height: 1%;
 }
 footer a {
     color: #9D9D9D;
 }
-
 footer a:hover {
     color: #FFFFFF;
     text-decoration: none;
